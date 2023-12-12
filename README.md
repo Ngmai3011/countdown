@@ -1,4 +1,4 @@
-# countdown app
+# countdown app (see the app through countdown-app.mp4) 
 
 Utilizing some technologies, UI components, and libraries. 
 
